@@ -1,3 +1,14 @@
+This repo is heavily based on:
+
+```bash
+$ https://github.com/umass-amrl/stereo_dense_reconstruction
+```
+
+Continue reading for more information on the original repo.
+
+
+
+
 # Dense 3D Reconstruction from Stereo
 
 This is a ROS package for real-time 3D reconstruction from stereo images. Currently this version uses [LIBELAS](http://www.cvlibs.net/software/libelas/) 
